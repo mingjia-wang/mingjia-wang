@@ -8,7 +8,7 @@ Two years ago, I worked for CodePath, a national organization working to teach a
 
 During Summer 2022, I was a software engineering intern at Coinbase on a Cloud Solutions Architecture team working to rightsize our cloud infrastructure and save the company millions of dollars.
 
-I'm currently trying to learn full-stack web development and seeking opportunities to work in that field and expand my horizons.<br/>
+I'm currently trying to learn fullstack web development and seeking opportunities to work in that field and expand my horizons.<br/>
 
 Check out some of my projects below!
 
