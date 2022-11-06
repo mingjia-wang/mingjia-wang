@@ -10,7 +10,7 @@ During Summer 2022, I was a software engineering intern at Coinbase on a Cloud S
 
 I'm currently trying to learn fullstack web development and seeking opportunities to work in that field and expand my horizons.<br/>
 
-Check out some of my projects below!
+Check out some of my projects below! The fullstack Waymakers project —— comprised of waymakers-frontend and waymakers-backend — is a fullstack application I served as tech lead on, and I guided a team of 14 developers to create a voluunteer management app for Waymakers, a local nonprofit.
 
 
 <!-- spanish reading guitar chess music (taylor swift & classical) rubik's cubes writing journalism -->
