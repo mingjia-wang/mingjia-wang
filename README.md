@@ -1,7 +1,7 @@
 # Hi, I'm Mingjia 👋
 
 Currently a software engineer at Fidelity working on a team that owns a company-critical navigation service. In my time here, I've spearheaded the development of an API and SDK with Typescript, NestJS, and Handlebars tem-
-plating with a net-new team as a new engineer and took new company-critical application to production. Also have Performed thorough end-to-end, regression, and unit testing with Cucumber and Jest while monitoring
+plating with a net-new team as a new engineer and took new company-critical application to production. Also have performed thorough end-to-end, regression, and unit testing with Cucumber and Jest while monitoring
 Jenkins pipeline, Splunk effectively for deployment and release management and debugging prod issues.
 
 I was previously a software developer at UCI who graduated in March 2024.
