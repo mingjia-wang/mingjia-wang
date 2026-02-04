@@ -6,7 +6,7 @@ Jenkins pipeline, Splunk effectively for deployment and release management and d
 
 I was previously a software developer at UCI who graduated in March 2024.
 
-I have a pet goldendoodle named Trumpet. I enjoy reading books (currently working on _A Brief History of China_ by Sally Rooney), writing short stories, and playing chess. I'm also interested in learning Spanish, and my dream is to become fluent someday and travel around Spain and Europe.
+I have a pet goldendoodle named Trumpet. I enjoy reading books (currently working on _The Correspondent_ by Virginia Evans), writing short stories, and playing chess. I'm also interested in learning Spanish, and my dream is to become fluent someday and travel around Spain and Europe.
 
 In college I spent 4 years contributing to Commit the Change at UCI, a club that creates tech for social good by building applications for local nonprofits, first as a tech lead, then a sofware developer, and finally as an Education Director and Executive Advisor.
 
